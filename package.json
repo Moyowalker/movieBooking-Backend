@@ -1,0 +1,11 @@
+{
+  "name": "moviebookingbackend",
+  "version": "1.0.0",
+  "description": "API backend for my movie booking app that will store movie data in a Mongo DB database and will return it to the mobile app as JSON data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moyosore Ajayi",
+  "license": "MIT"
+}
